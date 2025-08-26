@@ -1,0 +1,2 @@
+SAÍDA DO PROGRAMA
+<img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/6e854dca-ea62-4831-9253-3b608ff9b2b0" />
