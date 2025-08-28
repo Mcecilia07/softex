@@ -1,4 +1,4 @@
-/*for (let i = 0; i <= 5; i++) {
+for (let i = 0; i <= 5; i++) {
     console.log(i)
 }
 
@@ -29,7 +29,7 @@ for (let i = 0; i<=9; i++) {
     if ((numeros[i]) % 2 == 0){
         console.log(numeros[i])
     }
-} */
+}
 
 let i = 0
 let frutas =["maçã","banana","uva","morango","abacaxi"]
@@ -37,4 +37,14 @@ let frutas =["maçã","banana","uva","morango","abacaxi"]
 while (i<=4) {
     console.log(frutas[i]);
     i++;
+}
+console.log("fim da lista")
+
+
+for (let i = 2; i<=9; i++) {
+    console.log("Tabuada do " + i)
+
+    for (let j = 1; j<=10; j++){
+        console.log(`${i}x${j}=` + (i*j))
+    }
 }
